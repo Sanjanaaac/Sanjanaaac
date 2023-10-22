@@ -20,6 +20,11 @@ I am a Web-Developer, a Blockchain Developer, and a ML Enthusiast.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+ <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Sanjanaaac&theme=react" />
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanaaac&langs_count=10&theme=react"/>
+
 
 
 ### Reach out to me 👓
